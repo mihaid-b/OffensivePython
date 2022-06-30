@@ -1,1 +1,0 @@
-print("Malicious file executed")
