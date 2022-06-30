@@ -1,2 +1,2 @@
 # OffensivePython
-Curated & refactored repo of some comprehensive offensive/red team Python development books/courses.
+Refactored & enhanced repo of some comprehensive offensive/red team Python development books/courses.
