@@ -1,3 +1,7 @@
+#Update
+
+https://github.com/MythicAgents/Medusa/pull/14
+
 <p align="center">
   <img alt="Medusa Logo" src="agent_icons/medusa.svg" height="30%" width="30%">
 </p>
